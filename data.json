@@ -1,0 +1,65 @@
+ {
+
+    "data": [
+        {
+        "continent": "cna",
+        "location": "chia",
+        "population": 106766.0,
+        "population_density": 584.8,
+        "median_age": 41.2,
+        "aged_65_older": 13.085,
+        "aged_70_older": 7.452,
+        "gdp_per_capita": 35973.781,
+        "longitude" :  73.856743,
+        "latitude" : 18.520430 , 
+        "diabetes_prevalence": 11.62,
+        "life_expectancy": 76.29,
+        "infected" : 233
+    },
+    {
+        "continent": "PAKISTAN",
+        "location": "PAKISTAN",
+        "population": 106766.0,
+        "population_density": 584.8,
+        "median_age": 41.2,
+        "aged_65_older": 13.085,
+        "aged_70_older": 7.452,
+        "gdp_per_capita": 35973.781,
+        "longitude" :  104.195396,
+        "latitude" : 35.861660 , 
+        "diabetes_prevalence": 11.62,
+        "life_expectancy": 76.29,
+        "infected" : 400
+    },
+    {
+       "longitude":69.345116,
+       "latitude" :30.375320 
+    },
+     {
+       "longitude":69.345116,
+       "latitude" :30.375320 
+    },
+    {
+       "longitude": 138.252930,
+       "latitude":36.204823
+        
+        
+     },
+     {
+         
+            "longitude": 138.252930,
+            "latitude":36.204823
+             
+             
+          },
+       {"latitude":19.075983,
+        "longitude":72.877655,
+        "infected" : 1000
+      },
+      {"latitude":	58.000000,
+         "longitude":	56.316666,
+         "infected" : 100
+       }
+      
+    ]}
+    
